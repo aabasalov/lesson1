@@ -19,7 +19,7 @@ public class Main {
     long longD = -1200000000L;
     float floatE = -12.12f;
     double doubleF = 12.1212;
-    char charG = 'G';
+    char charG = 'B';
     boolean booleanH = true;
 
 
